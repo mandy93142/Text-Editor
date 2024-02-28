@@ -1,5 +1,6 @@
 # Text-Editor
 Progressive Web Applications (PWA) Challenge: Text Editor
+
 Link to Website: https://text-editor-5ohs.onrender.com
 
 ## Overview
